@@ -1,2 +1,0 @@
-# sample-project
-# new-repository
